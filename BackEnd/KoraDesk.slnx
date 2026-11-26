@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="KoraDesk.API/KoraDesk.API.csproj" />
+  <Project Path="KoraDesk.Application/KoraDesk.Application.csproj" />
+  <Project Path="KoraDesk.Domain/KoraDesk.Domain.csproj" />
+  <Project Path="KoraDesk.Infrastructure/KoraDesk.Infrastructure.csproj" />
+  <Project Path="KoraDesk.Tests/KoraDesk.Tests.csproj" />
+</Solution>
